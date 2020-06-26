@@ -1,5 +1,5 @@
 module ClibSodium [system] {
-    header "ClibSodium.h"
+    header "../../Headers/ClibSodium.h"
     link "sodium"
     export *
 }
